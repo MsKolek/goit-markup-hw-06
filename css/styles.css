@@ -649,3 +649,8 @@ address {
   visibility: hidden;
   pointer-events: none;
 }
+
+.form-modal label {
+  display: block;
+  position: relative;
+}
